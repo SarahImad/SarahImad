@@ -11,8 +11,11 @@
  
 
  
- 🌱 I’m currently learning **Node.js, Mean Stack**
+🌱 I’m currently learning **Node.js, Mean Stack**
+ 
+📫 How to reach me **Saraiafham20330@gmail.com**
 
+👨‍💻 All of my projects are available at [https://github.com/SarahImad](https://github.com/SarahImad)
 
 
  </div>
