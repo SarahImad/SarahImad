@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+
  
  🌱 I’m currently learning **Node.js, Mean Stack**
 
-💬 Ask me about **anything [here](Saraiafham20330@gmail.com)**
 
 
  </div>
