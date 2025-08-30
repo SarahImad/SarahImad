@@ -11,7 +11,7 @@
  
 
  
-🌱 I’m currently learning **Node.js, Mean Stack**
+🌱 A passionate software engineer committed to building impactful solutions and continuously growing.
  
 📫 How to reach me **Saraiafham20330@gmail.com**
 
