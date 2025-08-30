@@ -111,10 +111,10 @@
 
 
 <hr>
-<h3 align='left'> Stats: </h3>
+<!--<h3 align='left'> Stats: </h3>-->
 
 
-<div align=center>
+<!--<div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahimad&show_icons=true&locale=en&layout=compact" alt="sarahimad" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sarahimad&" alt="sarahimad" />
   <br/>
