@@ -11,7 +11,7 @@
  
 
  
-🌱 A passionate software engineer committed to building impactful solutions and continuously growing.
+🌱 Committed to building impactful solutions, continuously learning, and growing as a software engineer.
  
 📫 How to reach me **Saraiafham20330@gmail.com**
 
